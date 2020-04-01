@@ -1,0 +1,106 @@
+
+header
+{
+	display: flex;
+	justify-content: flex-end;
+}
+
+header input
+{
+	background-color: blue;
+	color: white;
+}
+
+
+
+html, body 
+{
+	height: 100%;
+	margin: 0; padding: 0;
+}
+
+
+body {
+	display : table;
+	width: 100%;
+}
+
+
+#conteneur
+{
+display: flex;
+justify-content: flex-end;
+vertical-align: middle;
+}
+
+#section img
+{
+	padding-top: 100px
+}	
+
+#section input
+{
+	border-radius: 40px;
+}
+
+.logo
+{
+	display: flex;
+	justify-content: center;
+}
+
+.search
+{
+	display: flex;
+	justify-content: center;
+	border-radius: 40px;
+}
+
+
+.item
+{
+	display: inline;
+	padding: 10px
+}
+
+
+
+#basg
+{
+display: flex;
+justify-content: flex-end;
+vertical-align: middle;
+}
+
+
+.item1
+{
+	display: flex;
+	display: inline;
+	padding: 25px 25px;
+	align-items: flex-start;
+}
+
+.item2
+{
+	display: flex;
+	display: inline;
+	padding: 25px 25px;
+	align-items: flex-end;
+}
+
+
+
+footer
+{
+	background-color : #eaeced;
+}
+
+
+
+footer 
+{
+	display : table-row;
+	height: 100px;
+}
+
